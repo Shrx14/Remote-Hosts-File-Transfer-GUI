@@ -1,0 +1,7 @@
+Datetime,Host,FileCopied,DestinationPath,Status
+7/4/2025 12:16,10.3.36.127,syslogs.log,\\10.3.36.127\C:\testcopypaste,Skipped: [WinError 67] The network name cannot be found: '\\\\10.3.36.127\\C:\\'
+7/4/2025 12:28,10.3.93.127,syslogs.log,\\10.3.93.127\C:\testcopypaste,Skipped: [WinError 67] The network name cannot be found: '\\\\10.3.93.127\\C:\\'
+7/4/2025 12:28,10.3.2.121,syslogs.log,\\10.3.2.121\C:\testcopypaste,Skipped: [WinError 67] The network name cannot be found: '\\\\10.3.2.121\\C:\\'
+7/4/2025 12:28,10.3.36.127,syslogs.log,\\10.3.36.127\C:\testcopypaste,Skipped: [WinError 67] The network name cannot be found: '\\\\10.3.36.127\\C:\\'
+2025-07-04 12:33:40,10.3.2.121,H1.jpg,\\10.3.2.121\C:\testcopypaste,Skipped: [WinError 67] The network name cannot be found: '\\\\10.3.2.121\\C:\\'
+2025-07-04 12:33:40,10.3.36.108,H1.jpg,\\10.3.36.108\C:\testcopypaste,Skipped: [WinError 67] The network name cannot be found: '\\\\10.3.36.108\\C:\\'
